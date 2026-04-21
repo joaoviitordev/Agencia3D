@@ -2,7 +2,7 @@ window.addEventListener("load", () => {
   const video = document.createElement("video");
   const midiaBackground = document.querySelector(".hero .midiaBackground");
 
-  video.src = "assets/img/video-hero.mp4";
+  video.src = "src/assets/img/video-hero.mp4";
   video.autoplay = true;
   video.muted = true;
   video.playsInline = true;
@@ -21,7 +21,7 @@ window.addEventListener("load", () => {
     "footer .midiaBackground",
   );
 
-  videoFooter.src = "assets/img/video-footer.mp4";
+  videoFooter.src = "src/assets/img/video-footer.mp4";
   videoFooter.autoplay = true;
   videoFooter.muted = true;
   videoFooter.playsInline = true;
@@ -163,7 +163,7 @@ div3d.appendChild(renderizador.domElement);
 
 const textureLoader = new THREE.TextureLoader();
 
-textureLoader.load("assets/img/hdri.webp", function (texture) {
+textureLoader.load("src/assets/img/hdri.webp", function (texture) {
   texture.mapping = THREE.EquirectangularReflectionMapping;
 
   const pmrem = new THREE.PMREMGenerator(renderizador);
@@ -179,7 +179,7 @@ textureLoader.load("assets/img/hdri.webp", function (texture) {
 let objeto;
 const loader = new GLTFLoader();
 
-loader.load("assets/img/diamond-compressed.glb", (objetoCarregado) => {
+loader.load("src/assets/img/diamond-compressed.glb", (objetoCarregado) => {
   objeto = objetoCarregado.scene;
   objeto.position.z = -12;
   objeto.position.y = 2;
