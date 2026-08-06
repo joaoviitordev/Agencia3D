@@ -1,7 +1,6 @@
-# 🎨 Agência 3D
+# Agência 3D
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-concluído-green" />
   <img src="https://img.shields.io/badge/foco-portfolio%20%26%20estudo-blue" />
   <img src="https://img.shields.io/badge/feito%20com-HTML5-orange" />
   <img src="https://img.shields.io/badge/style-CSS3-blue" />
@@ -15,9 +14,13 @@ Aplicação web desenvolvida com foco em apresentar uma **landing page moderna p
 
 > ⚠️ Este projeto foi desenvolvido com foco em **estudo, performance e experiência do usuário**, explorando animações avançadas e renderização 3D para aplicações web modernas.
 
+<p align="center">
+  <img src="src/assets/img/webhub.png" alt="Hero" width="100%"/>
+</p>
+
 ---
 
-## 🚀 Sobre o projeto
+## Sobre o projeto
 
 A **Agência 3D** é uma landing page interativa criada para simular o site institucional de uma agência digital moderna.
 
@@ -33,13 +36,13 @@ Além disso, toda a estrutura foi desenvolvida com foco em **alta performance e 
 
 ---
 
-## 🔗 Acesse o Projeto
+## Acesse o Projeto
 O portfólio está publicado e pode ser visualizado no link abaixo:
-* 👉 **https://joaoviitordev.github.io/Agencia3D/**
+* **https://joaoviitordev.github.io/Agencia3D/**
 
 ---
 
-## 🎥 Otimização e performance
+## Otimização e performance
 
 Um dos principais focos do projeto foi a **otimização dos vídeos e elementos visuais**, evitando lentidão e consumo excessivo de recursos.
 
@@ -55,7 +58,7 @@ Foram aplicadas estratégias como:
 
 ---
 
-## 📱 Responsividade
+## Responsividade
 
 O projeto foi desenvolvido com abordagem **fully responsive**, adaptando-se a diferentes tamanhos de tela:
 
@@ -68,23 +71,23 @@ Toda a interface foi ajustada para manter a estética e usabilidade em qualquer 
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
-### 🎨 Estrutura e estilo
+### Estrutura e estilo
 - HTML5  
 - CSS3  
 - JavaScript  
 
-### 🎬 Animações
+### Animações
 - **GSAP**  
 
-### 🧊 Renderização 3D
+### Renderização 3D
 - **Three.js**
 
-### 🎨 Prototipação e design
+### Prototipação e design
 - **Figma**
 
-### 🧩 Outros
+### Outros
 - Git & GitHub  
 - Estrutura semântica  
 - Boas práticas de performance  
@@ -92,7 +95,7 @@ Toda a interface foi ajustada para manter a estética e usabilidade em qualquer 
 
 ---
 
-## 🎯 Principais funcionalidades
+## Principais funcionalidades
 
 - Landing page moderna  
 - Seções animadas com scroll  
@@ -104,7 +107,7 @@ Toda a interface foi ajustada para manter a estética e usabilidade em qualquer 
 
 ---
 
-## 📚 Principais aprendizados
+## Principais aprendizados
 
 Durante o desenvolvimento deste projeto, os principais aprendizados foram:
 
@@ -116,7 +119,7 @@ Durante o desenvolvimento deste projeto, os principais aprendizados foram:
 
 ---
 
-## 📌 Considerações finais
+## Considerações finais
 
 Este projeto foi fundamental para aprofundar conhecimentos em:
 
@@ -130,13 +133,13 @@ Representa uma evolução importante na construção de interfaces modernas e im
 
 ---
 
-## 📄 Observação
+## Observação
 
 Projeto desenvolvido exclusivamente para fins educacionais e de portfólio, sem fins comerciais.
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **João Vitor Gomes de Faria**
 Com os ensinamentos do curso DevArt: Projetos de Alto Valor - Agência 3D
@@ -145,7 +148,7 @@ Foco em Desenvolvimento Front-end
 
 ---
 
-## 📬 Contato
+## Contato
 
 Links para contato:
 
